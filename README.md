@@ -25,23 +25,23 @@ This project leverages deep learning to automate the process of assigning ICD-10
 4. **Run the demo: Test the model with sample clinical text by running**:
    ```bash
    python demo_gpt.py
+   
+## Usage
+- Input clinical notes in plain text format.
+- The model generates ICD-10 codes with confidence scores.
+- Modify hyperparameters for fine-tuning.
+- Example scripts and notebooks are included in the repository.
 
----
+## License
+This project is under a Proprietary License. For access and subscription details, visit [your-website-link].
 
-### **Why This Works**
-1. **Blank Lines**: There’s a blank line before and after every code block to ensure Markdown parses it as a proper block.
-2. **Indentation**: The text and code are indented consistently under the list numbers, ensuring proper alignment.
-3. **Triple Backticks (` ``` `)**: These correctly mark multi-line code blocks.
+## Support
+For questions or issues, contact:
+- Email: [your-email@example.com]
+- GitHub Issues: Submit a ticket [here](#).
 
----
+## Acknowledgments
+- MIMIC-IV database for clinical data.
+- OpenAI for GPT-based language models.
 
-### **How to Fix in GitHub**
-1. Open your README file in edit mode.
-2. Replace the "Installation" section with the corrected Markdown above.
-3. Click **Preview** to confirm that:
-   - All numbers (`1.`, `2.`, etc.) are the same color.
-   - Code blocks appear in gray boxes.
-4. Click **Commit changes** to save.
-
-Let me know if it still doesn’t render correctly!
 
